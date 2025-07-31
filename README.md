@@ -1,6 +1,6 @@
 # 📄 DocForge - AI-Powered GitHub Repository Documentation Generator
 
-<img width="1366" height="768" alt="Screenshot (1194)" src="https://github.com/user-attachments/assets/4679d1c5-133d-4cc0-ac4a-3cd019b27cbe" />
+<img width="1297" height="670" alt="Screenshot (1194)" src="https://github.com/user-attachments/assets/8f0f6c7d-5094-411a-85d1-0a96768ae7a9" />
 
 ## 🎯 Project Overview
 
