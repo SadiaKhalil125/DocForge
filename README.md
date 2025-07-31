@@ -1,5 +1,7 @@
 # 📄 DocForge - AI-Powered GitHub Repository Documentation Generator
 
+<img width="1366" height="768" alt="Screenshot (1194)" src="https://github.com/user-attachments/assets/4679d1c5-133d-4cc0-ac4a-3cd019b27cbe" />
+
 ## 🎯 Project Overview
 
 DocForge is an intelligent documentation generation tool that automatically analyzes GitHub repositories and creates comprehensive README files and requirements.txt files. Built with Streamlit and powered by multiple Large Language Models (LLMs), it provides a user-friendly interface for developers to quickly generate professional documentation for their projects.
