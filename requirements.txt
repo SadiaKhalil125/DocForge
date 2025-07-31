@@ -1,0 +1,8 @@
+streamlit
+langchain
+chromadb
+huggingface-hub
+transformers
+requests
+python-dotenv
+urllib3
